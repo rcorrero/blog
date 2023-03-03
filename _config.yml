@@ -10,15 +10,15 @@ title: Propositions
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
 # Avatar for light mode site
-lightavatar: /assets/images/roboto_bold_r_transparent_dark.png
+lightavatar:
 # Avatar for dark mode site
-darkavatar: /assets/images/roboto_bold_r_transparent.png
+darkavatar:
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-tagline:
+tagline: A Witty Tagline Here.
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description:
+description: A Witty Tagline Here.
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: https://www.richardcorrero.com/blog/
@@ -33,7 +33,7 @@ baseurl: "/blog"
 author: Richard Correro
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /assets/images/roboto_bold_r.jpg
+logo:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
